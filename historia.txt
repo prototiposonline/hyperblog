@@ -5,3 +5,5 @@ tengo 37 años
 Altura 1.82 m
 
 Peso 85 kg.
+
+Cambio de Ubicacion a SanTiago de Chile.
